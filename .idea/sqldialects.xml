@@ -4,5 +4,12 @@
     <file url="file://$PROJECT_DIR$/01_suppliers.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02_sum_of_emp_salaries.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_priceOf_cheapest_item.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/04_avg_price_items.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_priceOf_most_expenstive_Item.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_supplier_number_of_items_the_sell.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/07_categoryId_and_avgPrice_inEachCategory.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/08_suppliers_provide_moreThan_5 items.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/09_listProduct_invetoryValue_sort.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/test.sql" dialect="MySQL" />
   </component>
 </project>
