@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/01_suppliers.sql" value="8319cd63-7a4a-4fb5-b71a-260670f21419" />
+    <file url="file://$PROJECT_DIR$/02_sum_of_emp_salaries.sql" value="8319cd63-7a4a-4fb5-b71a-260670f21419" />
+    <file url="file://$PROJECT_DIR$/03_priceOf_cheapest_item.sql" value="8319cd63-7a4a-4fb5-b71a-260670f21419" />
+  </component>
+</project>
